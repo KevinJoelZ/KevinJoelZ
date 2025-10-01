@@ -25,9 +25,6 @@ Soy estudiante de Tecnología en Desarrollo de Software, apasionado por la progr
 
 ## 💡 Proyectos Académicos Destacados
 
-- **Sistema de Gestión de Estudiantes:**  
-  Desarrollo web usando Node.js y Firebase. Implementación de autenticación y generación de reportes con SQL.
-
 - **App Móvil de Inventario:**  
   Aplicación para Android desarrollada en Java con Firebase como base de datos. Sincronización en tiempo real.
 
