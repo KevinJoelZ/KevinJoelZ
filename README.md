@@ -14,22 +14,12 @@ Soy estudiante de Tecnología en Desarrollo de Software, apasionado por la progr
 
 ## 🛠️ Habilidades Técnicas
 
-- **Lenguajes:** Java, JavaScript (React, Node.js), Python
-- **Bases de Datos:** SQL (MySQL, PostgreSQL), NoSQL (Firebase)
+- **Lenguajes:** Java, Python
+- **Bases de Datos:** SQL (MySQL), NoSQL (Firebase)
 - **Desarrollo Web:** HTML, CSS, JavaScript
 - **Desarrollo Móvil:** Java (Android)
 - **Metodologías:** Scrum, Kanban, gestión de proyectos académicos
 - **Herramientas:** Git, GitHub
-
----
-
-## 💡 Proyectos Académicos Destacados
-
-- **App Móvil de Inventario:**  
-  Aplicación para Android desarrollada en Java con Firebase como base de datos. Sincronización en tiempo real.
-
-- **Blog Personal con Panel de Administración:**  
-  Sitio web usando Vue y Node.js, con base de datos MySQL y gestión de roles.
 
 ---
 
@@ -53,13 +43,6 @@ ITECSUR (Estudiando)
 
 - Español (nativo)
 - Inglés (intermedio)
-
----
-
-## 🤝 Otros
-
-- Participación en hackathons y retos de programación
-- Voluntariado en proyectos de software libre
 
 ---
 
